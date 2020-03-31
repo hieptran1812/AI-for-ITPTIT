@@ -34,4 +34,5 @@ Hệ thống của bạn sẽ chỉ có khả năng học nếu dữ liệu đà
 * Lựa chọn feature: chọn các tính năng hữu ích nhất để đào tạo trong số các tính năng hiện có.
 * Trích xuất feature: kết hợp các feature hiện có để tạo ra một feature hữu ích hơn (như chúng ta đã thấy trước đó, các thuật toán giảm chiều có thể giúp ích).
 * Tạo các feature mới bằng cách thu thập dữ liệu mới.
+
 Ví dụ để dự đoán giá của một chiếc xe hơi thì bạn có thể bỏ qua tên của chiếc xe vì nó không liên quan gì nhiều đến giá của xe hơi đó cả.
