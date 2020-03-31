@@ -10,4 +10,4 @@ Thiết kế ra một model ngon và đáp ứng được những nhiệm vụ B
 
 Giáo viên giao cho bạn một bài toán và bạn có dám chắc là chỉ cần học một bài toán đó là có thể làm được những bài tương tự ? Chưa chắc đúng không. Machine Learning cũng vậy, phải mất rất nhiều dữ liệu để máy có thể làm việc đúng. Ngay cả với vấn đề đơn giản bạn cũng phải cần hàng ngàn ví dụ, còn với vấn đề phức tạp như nhận dạng hình ảnh hoặc giọng nói bạn có thể cần đến hàng triệu ví dụ (trừ khi bạn có thể tái sử dụng một mô hình đã tồn tại trước đó).
 
-![Image](https://drive.google.com/open?id=1jvKa3toBhbI2dAhG8jSPMka70UntiL9s)
+<p align="center"><img src = "https://github.com/hieptran1812/AI-for-ITPTIT/blob/master/Ti%E1%BB%81n%20x%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u/images/du%20lieu%20chua%20du.PNG"></p>
