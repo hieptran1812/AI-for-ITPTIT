@@ -19,13 +19,7 @@ Bạn có thể đọc thêm tại <a href="https://towardsdatascience.com/8-rea
 9. Function, lambda
 10. Class/Objects
 11. Inheritance
-12. TRy...Except
-13. User Input
-14. File
-* File Handling
-* Read Files
-* Write/Create Files
-* Delete Files
+12. User Input
 
 ## Tham khảo
 
