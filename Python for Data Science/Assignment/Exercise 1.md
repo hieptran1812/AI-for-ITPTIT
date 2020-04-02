@@ -2,7 +2,7 @@
 
 Tạo một tài khoản tại trang <a href = "https://leetcode.com/"> Leetcode </a>
 
-Mục tiêu là để làm quen và ứng dụng lệnh Python cơ bản để giải quyết vấn đề
+Mục tiêu là để làm quen và ứng dụng lệnh Python cơ bản để giải quyết vấn đề.
 
 Làm các bài tập sau sử dụng ngôn ngữ Python:
 
