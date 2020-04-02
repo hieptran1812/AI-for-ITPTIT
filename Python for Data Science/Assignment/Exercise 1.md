@@ -13,4 +13,6 @@ Làm các bài tập sau sử dụng ngôn ngữ Python:
 5. https://leetcode.com/problems/valid-parentheses/
 6. https://leetcode.com/problems/two-sum/
 
+Ví dụ về code accepted
+
 <p align = "center"> <img src = "https://github.com/hieptran1812/AI-for-ITPTIT/blob/master/Ti%E1%BB%81n%20x%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u/images/leetcode.PNG"></p>
