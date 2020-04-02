@@ -18,8 +18,7 @@ Bạn có thể đọc thêm tại <a href="https://towardsdatascience.com/8-rea
 8. Vòng lặp
 9. Function, lambda
 10. Class/Objects
-11. Inheritance
-12. User Input
+11. User Input
 
 ## Tham khảo
 
