@@ -23,8 +23,6 @@ Có một số sự khác biệt giữa array Numpy và các collection Python (
 ### Một số thao tác trên Numpy
 
 * Khởi động nhanh: [Quickstart](https://github.com/hieptran1812/AI-for-ITPTIT/blob/master/Python%20for%20Data%20Science/Numpy/Quickstart%20Numpy.ipynb)
-* Numpy Basic: [Numpy-Basic]()
-
 
 ## Tham khảo
 
