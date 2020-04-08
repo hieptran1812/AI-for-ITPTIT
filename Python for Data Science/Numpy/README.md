@@ -27,3 +27,4 @@ Có một số sự khác biệt giữa array Numpy và các collection Python (
 ## Tham khảo
 
 1. [Khóa học CS231](https://cs231n.github.io/python-numpy-tutorial/#numpy)
+2. [nttuan8](https://nttuan8.com/)
