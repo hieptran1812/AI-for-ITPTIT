@@ -20,6 +20,8 @@ Có một số sự khác biệt giữa array Numpy và các collection Python (
 * Việc code các công thức toán học sẽ rất tường mình, dễ hiểu.
 * Giảm tối đa việc for-loop từng phần tử, công thức. Do đó tận dụng được ưu thế của phần cứng giúp cho việc tính toán nhanh hơn.
 
+Ngoài ra Numpy có rất nhiều hàm thuận tiện với nhiều thao tác tính toán khác nhau, trong lập trình thi đấu (Competitve Programming) ta cũng có thể sử dụng Numpy như một công cụ mạnh để giải bài.
+
 ### Một số thao tác trên Numpy
 
 * Khởi động nhanh: [Quickstart](https://github.com/hieptran1812/AI-for-ITPTIT/blob/master/Python%20for%20Data%20Science/Numpy/Quickstart%20Numpy.ipynb)
