@@ -2,7 +2,8 @@
 
 ## Regression
 
-Multiple Linear Regression
+1. Introduction to Regression
+2. Multiple Linear Regression
 
 ## Classfication
 
@@ -16,3 +17,4 @@ Multiple Linear Regression
 
 1. Intro to Clustering
 2. K-Means
+3. Mean - Shift
