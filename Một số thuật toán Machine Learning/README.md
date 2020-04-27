@@ -2,8 +2,7 @@
 
 ## Regression
 
-1. Simple Linear Regression
-2. Multiple Linear Regression
+Multiple Linear Regression
 
 ## Classfication
 
