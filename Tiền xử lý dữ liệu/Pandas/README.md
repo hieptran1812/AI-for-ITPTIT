@@ -24,9 +24,8 @@ Thư viện pandas trong python là một thư viện mã nguồn mở, hỗ tr�
 
 Practice makes Perfect!!!
 
-[Quickstart1](https://github.com/hieptran1812/AI-for-ITPTIT/blob/master/Ti%E1%BB%81n%20x%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u/Pandas/Quickstart%20Pandas%201.ipynb)
-
-[Quickstart2](https://github.com/hieptran1812/AI-for-ITPTIT/blob/master/Ti%E1%BB%81n%20x%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u/Pandas/Quickstart%20Pandas%202.ipynb)
+1. [Quickstart1](https://github.com/hieptran1812/AI-for-ITPTIT/blob/master/Ti%E1%BB%81n%20x%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u/Pandas/Quickstart%20Pandas%201.ipynb)
+2. [Quickstart2](https://github.com/hieptran1812/AI-for-ITPTIT/blob/master/Ti%E1%BB%81n%20x%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u/Pandas/Quickstart%20Pandas%202.ipynb)
 
 ## Tham khảo
 
