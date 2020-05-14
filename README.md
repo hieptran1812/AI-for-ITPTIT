@@ -6,6 +6,7 @@ Chào mừng các bạn đến với thế giới hấp dẫn của Trí tuệ n
 Việc có kiến thức về dữ liệu và cách làm việc với dữ liệu là hành trang vô cùng cần thiết không chỉ cho những người học Công nghệ thông tin muốn phát triển sự nghiệp của mình. Để tạo nên một phong trào học tập về AI trong ITPTIT Club, mình sẽ thu thập, viết những hướng dẫn chi tiết về cách học AI từ A tới Z. Hãy yên tâm nếu bạn là một người bắt đầu với chuyên ngành cực hay ho này. 
 
 Mọi ý kiến đóng góp xin gửi về email: hieptran22182000@gmail.com
+
 Hoặc các bạn có thể liên hệ với mình qua facebook: https://www.facebook.com/hieptran1812
 
 
