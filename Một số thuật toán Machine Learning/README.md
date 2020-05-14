@@ -1,4 +1,4 @@
-# Một số thuật toán Machine Learning
+# Một số thuật toán cơ bản Machine Learning
 
 ## Regression
 
