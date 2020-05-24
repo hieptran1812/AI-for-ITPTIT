@@ -14,7 +14,7 @@ Ví dụ:
 
 <p align = "center"><img src = "https://github.com/hieptran1812/AI-for-ITPTIT/blob/master/Ti%E1%BB%81n%20x%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u/images/lol1.PNG" </p>
 
-Các bạn sẽ thấy là thông tin toàn số liệu rất lằng nhằng. Các bạn rất khó để biết thằng nào damage to nhất, so sánh sát thương, máu hồi ra sao :DD. Đó là lúc ta visual sang dạng biểu đồ như dưới.
+Các bạn sẽ thấy là thông tin toàn số liệu rất lằng nhằng. Sẽ rất khó để biết thằng nào damage to nhất, so sánh sát thương, máu hồi ra sao :DD. Đó là lúc ta visual sang dạng biểu đồ như dưới.
 
 <p align = "center"><img src = "https://github.com/hieptran1812/AI-for-ITPTIT/blob/master/Ti%E1%BB%81n%20x%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u/images/lol2.PNG" </p>
   
