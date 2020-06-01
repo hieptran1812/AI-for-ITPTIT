@@ -16,6 +16,8 @@ Feature engineering là một giai đoạn không thể thiếu trong quá trìn
 
 Các nhà khoa học dữ liệu dành 70% thời gian của họ cho giai đoạn feature engineering. Đây là một quá trình khó khăn đòi hỏi cả kiến thức chuyên ngành và tính toán toán học.
 
+<p align = "center"><img src = "https://miro.medium.com/max/1400/0*-dn9U8gMVWjDahQV.jpg"></p>
+
 “Feature engineering is the process of transforming raw data into features that better represent the underlying problem to the predictive models, resulting in improved model accuracy on unseen data.” — Dr. Jason Brownlee
 
 “At the end of the day, some machine learning projects succeed and some fail. What makes the difference? Easily the most important factor is the features used.” — Prof. Pedro Domingos
