@@ -44,7 +44,7 @@ Phương pháp này được áp dụng trong những trường hợp có rất 
 2. Lựa chọn đặc trưng bằng sử dụng mô hình: Random Forest, Linear Regression, Neural Network, SVD.
 3. Lựa chọn thông qua lưới (grid search): Coi số lượng biến như một thông số của mô hình. Thử nghiệm các kịch bản với những số lượng biến khác nhau. Các bạn có thể xem cách thực hiện grid search.
 
-Vì mỗi vấn đề và dữ liệu mà có các cách xử lý khác nhau. Hãy thử google các kĩ thuật trên và đừng ngại khó, sắp tới mình sẽ giải thích và sử dụng trong các bài toán cụ thể.
+Vì mỗi vấn đề và dữ liệu mà có các cách xử lý khác nhau. Hãy thử google các kĩ thuật trên, đừng ngại khó, sắp tới mình sẽ giải thích và sử dụng trong các bài toán cụ thể.
 
 ## Quá trình thực hiện Feature engineering
 
