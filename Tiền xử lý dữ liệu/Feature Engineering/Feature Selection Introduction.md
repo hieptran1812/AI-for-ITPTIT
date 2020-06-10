@@ -16,7 +16,3 @@ Tóm lại, có thể hiểu lợi ích của Feature selection qua ví dụ sau
 ## Tổng quan
 
 Có ba loại Feature Selection (mình xin phép không dịch sang tiếng Việt vì không sát nghĩa): Wrapper methods (forward, backward, and stepwise selection), Filter methods (ANOVA, Pearson correlation, variance thresholding), và Embedded methods (Lasso, Ridge, Decision Tree). Ta sẽ cùng nhau làm rõ hơn trong phần sau.
-
-### Wrapper methods
-
-**Wrapper methods** là phương pháp tính toán hiệu suất mô hình với một tập hợp con các feature nhất định và đánh giá tầm quan trọng của từng feature. Sau đó, ta lặp lại và thử một tập hợp con các features khác nhau cho đến khi đạt được tập hợp con tối ưu. Hai nhược điểm của phương pháp này là thời gian tính toán lớn cho dữ liệu có nhiều features và nó có xu hướng phù hợp với mô hình khi không có nhiều điểm dữ liệu. Các Wrapper methods đáng chú ý nhất của Feature selection là **forward selection**, **backward selection**, và **stepwise**. selection.
