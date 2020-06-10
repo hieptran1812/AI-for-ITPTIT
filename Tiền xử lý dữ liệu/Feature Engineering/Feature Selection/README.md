@@ -15,4 +15,8 @@ Tóm lại, có thể hiểu lợi ích của Feature selection qua ví dụ sau
 
 ## Tổng quan
 
-Có ba loại Feature Selection (mình xin phép không dịch sang tiếng Việt vì không sát nghĩa): Wrapper methods (forward, backward, and stepwise selection), Filter methods (ANOVA, Pearson correlation, variance thresholding), và Embedded methods (Lasso, Ridge, Decision Tree). Ta sẽ cùng nhau làm rõ hơn trong phần sau.
+Có ba loại Feature Selection (mình xin phép không dịch sang tiếng Việt vì không sát nghĩa): **Wrapper methods** (forward, backward, and stepwise selection), **Filter methods** (ANOVA, Pearson correlation, variance thresholding), và **Embedded methods** (Lasso, Ridge, Decision Tree).
+
+<p align = "center"><img src = "https://miro.medium.com/max/1342/1*2X1LtPmmzbRPZvomGm9Hlw.png"></p>
+
+Ta sẽ cùng nhau làm rõ hơn trong các phần sau.
