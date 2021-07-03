@@ -2,14 +2,14 @@
 
 ## Lập trình cơ bản
 
-1. Luyện tập Python cơ bản
+### Luyện tập Python cơ bản
 * Cấu trúc dữ liệu, mệnh đề điều kiện, vòng lặp đơn giản
 * Vòng lặp nâng cao, Hàm
 * Làm với với file và các thư viện
 
-2. Thực hành lập trình python
+### Thực hành lập trình python
 
-## Kiến thức toán học cơ bản (optional)
+### Kiến thức toán học cơ bản (optional)
 
 1. Đại số tuyến tính 
 * Vector, Ma trận và các tính chất
@@ -46,7 +46,7 @@
 * Luyện tập áp dụng công thức xác suất đầy đủ + định lý Bayes
 * [Mới] Hệ thống nhận diện tên thực thể
 
-7. Thống kê 1 (1 buổi)
+7. Thống kê 1
 * Kỳ vọng
 * Phương sai
 * Phân phối Bernoulli
@@ -66,11 +66,20 @@
 
 ## Machine learning cơ bản
 
+1. Giới thiệu AI và thư viện
+* AI, Machine Learning, Deep Learning và ứng dụng
+* Giới thiệu Framework Tensorflow 2
+* Giới thiệu Framework Pytorch
+
+2. Giới thiệu các thư viện hiển thị
+* Thư viện Matplotlib 
+* Thư viện Pandas
+
+3. Mô hình hồi quy tuyến tính (Linear Regression)
+
+4. 
 
 ## Deep learning cơ bản
-
-
-## Các lĩnh vực trong Deep learning
 
 ### Computer vision
 
@@ -80,24 +89,7 @@
 
 ### Signal processing
 
-6. Giới thiệu các thư viện hiển thị + Ôn tập Gradient (1 buổi)
-Thư viện Matplotlib 
-Thư viện Pandas
-Ôn tập Gradient
 
-
-Giới thiệu AI và Tensorflow 2 (1 buổi)
-AI, Machine Learning, Deep Learning và ứng dụng
-Giới thiệu Framework Tensorflow 2
-
-
-Mô hình hồi quy tuyến tính (Linear Regression) (1 buổi)
-Xây dựng mô hình dự đoán giá Grab
-Thuật toán tối ưu Gradient Descent
-Lập trình mô hình hồi quy tuyến tính bằng Python
-Lập trình mô hình hồi quy tuyến tính bằng Tensorflow 2
-Hướng dẫn sử dụng TensorBoard để hiển thị quá trình trình training
-Sử dụng MLE để xây dựng Mean Square Error
 Model-centric vs Data-centric
 Structured và Unstructured data
 Phân tích tương quan đặc trưng
