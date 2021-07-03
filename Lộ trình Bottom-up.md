@@ -9,6 +9,8 @@
 
 ### Thực hành lập trình python
 
+### OOP với Python
+
 ### Kiến thức toán học cơ bản (optional)
 
 1. Đại số tuyến tính 
@@ -88,6 +90,11 @@
 
 
 ### Signal processing
+
+## Các kĩ năng khác 
+1. Sử dụng Git, Github
+2. Đọc hiểu paper
+3. Cách viết tài liệu báo cáo, paper
 
 
 Model-centric vs Data-centric
@@ -169,4 +176,3 @@ Xây dựng thư viện AI
 Hướng đối tượng (OOP)
 Xây dựng Pipeline dữ liệu
 Scaling thư viện
-Tư vấn dàn bài từ chuyên gia và những học viên đã thi thành công 
