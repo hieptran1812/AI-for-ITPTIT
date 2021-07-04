@@ -11,3 +11,9 @@ Hoặc các bạn có thể liên hệ với mình qua facebook: https://www.fac
 
 ## LỘ TRÌNH HỌC
 
+Có hai lộ trình học các bạn có thể chọn lộ trình học với bản thân:
+1. Lộ trình Bottom-up
+[link](https://github.com/hieptran1812/AI-for-ITPTIT/blob/master/L%E1%BB%99%20tr%C3%ACnh%20Bottom-up.md)
+
+2. Lộ trình Top-down
+[link](https://github.com/hieptran1812/AI-for-ITPTIT/blob/master/L%E1%BB%99%20tr%C3%ACnh%20Up-down.md)
