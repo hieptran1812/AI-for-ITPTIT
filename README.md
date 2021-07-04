@@ -9,6 +9,8 @@ Mọi ý kiến đóng góp xin gửi về email: hieptran.jobs@gmail.com
 
 Hoặc các bạn có thể liên hệ với mình qua facebook: https://www.facebook.com/hieptran1812
 
+Nếu thấy Repository này có ích, để lại 1 star cho mình nha <3
+
 ## LỘ TRÌNH HỌC
 
 Hai lộ trình học (gợi ý) các bạn có thể chọn lộ trình học với bản thân:
