@@ -82,7 +82,7 @@
 * Thư viện Pandas
 
 ### Giới thiệu các trang web luyện tập
-1. Giới thiệu Kaggle
+1. Giới thiệu [Kaggle](https://www.kaggle.com/)
 2. Giới thiệu các cuộc thi Hackathon
 
 ### Các thuật toán Machine learning (đang xây dựng)
