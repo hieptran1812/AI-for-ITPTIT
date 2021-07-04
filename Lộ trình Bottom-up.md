@@ -87,8 +87,18 @@
 ### Các thuật toán Machine learning (đang xây dựng)
 
 1. Mô hình hồi quy tuyến tính (Linear Regression)
+2. Mô hình Logistic regression
+3. Mô hình Decision Tree
+4. Mô hình Random Forest
+5. Mô hình Support Vector Machine
+
+### Các vấn đề liên quan (đang xây dựng)
+1. Các metric đánh giá mô hình
+2. Tiền xử lý dữ liệu
 
 ## Deep learning cơ bản (đang xây dựng)
+
+### Làm quen các công cụ
 
 * Giới thiệu Framework [Tensorflow](https://www.tensorflow.org/)
 * Giới thiệu Framework [Pytorch](https://pytorch.org/)
@@ -103,5 +113,5 @@
 
 ## Các kĩ năng khác 
 1. Sử dụng Git, Github
-2. Đọc hiểu paper
-3. Cách viết tài liệu báo cáo, paper
+2. Tìm, đọc, hiểu paper
+3. Cách viết tài liệu báo cáo, paper chuẩn
