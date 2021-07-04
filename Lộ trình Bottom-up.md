@@ -19,7 +19,6 @@
 1. Đại số tuyến tính 
 * Vector, Ma trận và các tính chất
 * Xây dựng, tính toán trên ma trận sử dụng Numpy
-* Dự án xây dựng máy tìm kiếm (Search Engine)
 
 2. Giải tích 1 
 * Giới hạn
