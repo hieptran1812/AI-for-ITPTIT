@@ -91,8 +91,8 @@
 
 ## Deep learning cơ bản (đang xây dựng)
 
-* Giới thiệu Framework Tensorflow 2
-* Giới thiệu Framework Pytorch
+* Giới thiệu Framework [Tensorflow](https://www.tensorflow.org/)
+* Giới thiệu Framework [Pytorch](https://pytorch.org/)
 
 ### Computer vision
 
