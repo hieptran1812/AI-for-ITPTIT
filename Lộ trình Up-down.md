@@ -1,4 +1,4 @@
-# Lộ trình Top down (liên tục update)
+# Lộ trình Top down (Đang update)
 Với cách tiếp cận Top down, thay vì học lần lượt các kiến thức nền tảng từ dễ đến khó như cách tiếp cận Bottom up, các bạn sẽ được học những kiến thức cơ bản nhất và sau đó đi thằng vào làm 1 project. Các project được đảm bảo được xây dựng theo lượng kiến thức tăng dần. Ta sẽ mổ xẻ một project với các tiêu chí sau:
 * Nắm được yêu cầu của vấn đề được nêu
 * Quy trình và chức năng của các bước xử lý
