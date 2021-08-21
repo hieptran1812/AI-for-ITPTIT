@@ -19,13 +19,80 @@ Với cách tiếp cận Top down, thay vì học lần lượt các kiến th�
 1. Luyện tập trên các bài tập được giao
 2. Luyện tập code python trên [Leetcode](https://leetcode.com/)
 
-## Machine learning project
+## Các kiến thức AI
 
 ### Getting Started
 1. Khi nào sử dụng Machine learning?
 2. Các thuật ngữ cơ bản trong Machine learning
 3. Giới thiệu các thư viện cần thiết
 4. Các bước cơ bản giải quyết 1 vấn đề bằng Machine learning
+
+### Giới thiệu các thư viện hiển thị dữ liệu
+1. Thư viện Matplotlib
+2. Thư viện Pandas
+
+### Giới thiệu các AI framework
+1. Tensorflow 2
+2. Pytorch
+
+### Mô hình hồi quy tuyến tính (Linear Regression)
+1. Xây dựng mô hình dự đoán giá nhà
+2. Lập trình mô hình hồi quy tuyến tính bằng Python
+3. Lập trình mô hình hồi quy tuyến tính bằng Tensorflow 2
+4. Hướng dẫn sử dụng TensorBoard để hiển thị quá trình trình training
+5. Khái niệm Loss function
+
+### Model-centric vs Data-centric
+1. Structured và Unstructured data
+2. Phân tích tương quan đặc trưng
+3. Lựa chọn đặc trưng cho mô hình
+
+### Thuật toán Stochastic Gradient Descent (SGD)
+1. Lập trình thuật toán Stochastic Gradient Descent với Python
+2. Lập trình thuật toán Stochastic Gradient Descent với Tensorflow 2
+
+### Mô hình hồi quy logistic (Logistic Regression)
+1. Sử dụng hồi quy Logistic cho bài toán phân loại nhiều lớp
+2. Xây dựng thuật toán Gradient Descent cho Logistic Regression bằng Python và Numpy
+
+### Mô hình hồi quy Softmax
+1. Hồi quy Softmax
+2. Bias và Variance, vấn đề Overfitting và Underfitting
+3. Regularization (L1, L2)
+
+### Đánh giá mô hình
+1. TP/TN/FP/FN
+2. Precision và Recall
+3. F1 Score
+4. ROC Curve và AUC ROC Curve
+5. Đánh giá hiệu năng mô hình với dữ liệu không cân bằng (Imbalanced Data)
+
+### Mạng Neuron (Neural Network)
+1. Giới thiệu
+2. Thực hành xây dựng mạng Nơ ron
+3. Xây dựng mạng Nơ ron bằng Python + Numpy
+4. Xây dựng mạng Nơ ron bằng Tensorflow 2
+
+### Thuật toán lan truyền ngược
+1. Lý thuyết, ôn tập quy tắc chuỗi nhiều biến
+2. Xây dựng thuật toán lan truyền ngược bằng Python + Numpy
+
+### Mạng tích chập (CNN)
+1. Thị giác máy tính cơ bản
+2. Xây dựng lớp tích chập, max pooling
+3. Xây dựng mô hình phân loại
+
+### Transfer-learning
+1. Giới thiệu
+2. Các mô hình pretrain
+3. Thực hành
+
+### Các thuật toán tối ưu
+1. SGD + Momentum, AdaGrad, Adadelta, RMSprop, Adam, AdaMax, Nadam, AMSGrad
+2. Chuẩn hóa: BatchNorm
+
+
+## Machine learning project
 
 ### Project (đang xây dựng)
 1. Titanic - Machine Learning from Disaster [link](https://www.kaggle.com/c/titanic)
