@@ -66,6 +66,7 @@ Với cách tiếp cận Top down, thay vì học lần lượt các kiến th�
 3. F1 Score
 4. ROC Curve và AUC ROC Curve
 5. Đánh giá hiệu năng mô hình với dữ liệu không cân bằng (Imbalanced Data)
+6. Làm quen với Kaggle
 
 ### Mạng Neuron (Neural Network)
 1. Giới thiệu
